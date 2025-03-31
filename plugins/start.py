@@ -57,7 +57,7 @@ async def start_command(client: Client, message: Message):
         try:
             messages = await get_messages(client, ids)
         except:
-            await message.reply_text("Something Went Wrong..!")
+            await message.reply_text(<b>"Something Went Wrong..!"</b>)
             return
         await temp_msg.delete()
     
@@ -169,7 +169,7 @@ async def not_joined(client: Client, message: Message):
 async def get_users(client: Bot, message: Message):
     msg = await client.send_message(chat_id=message.chat.id, text=f"Processing...")
     users = await full_userbase()
-    await msg.edit(f"{len(users)} Users Are Using This Bot")
+    await msg.edit(f"{len(users)} <b>Users Are Using This Bot"</b>)
 
 
 
@@ -215,7 +215,7 @@ async def send_text(client: Bot, message: Message):
         return await pls_wait.edit(status)
 
     else:
-        msg = await message.reply(f"Use This Command As A Reply To Any Telegram Message With Out Any Spaces.")
+        msg = await message.reply(f"<b>Use This Command As A Reply To Any Telegram Message With Out Any Spaces."</b>)
         await asyncio.sleep(8)
         await msg.delete()
 

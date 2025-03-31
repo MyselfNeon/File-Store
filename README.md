@@ -10,9 +10,12 @@
 # Config Variables
 
 ‣ `API_HASH` Your API Hash from my.telegram.org
+
 ‣ `APP_ID` Your API ID from my.telegram.org
+
 ‣ `BOT_TOKEN` Your bot token from @BotFather
 • `OWNER_ID` Must enter Your Telegram Id
+
 • `FILE_AUTO_DELETE` File auto delete, value in seconds
 • `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 • `DB_URL` Your mongo db url

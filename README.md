@@ -26,7 +26,7 @@
 ‣ `DB_NAME` Your mongo db session name
 
 
-### FEATURES
+# FEATURES
 - Fully customisable.
 - Auto Delete Added.
 - 3 Branch Available.
@@ -49,7 +49,6 @@
 
 # FILLINGS
 # START_MESSAGE 
-# |FORCE_SUB_MESSAGE|
 
 * `{first}` - User first name
 * `{last}` - User last name
@@ -57,10 +56,10 @@
 * `{mention}` - Mention the user
 * `{username}` - Username
 
-#### CUSTOM_CAPTION
+# CUSTOM_CAPTION
 
  `{filename}` - file name of the Document
-* `{previouscaption}` - Original Caption
+ `{previouscaption}` - Original Caption
 
 # CUSTOM_STATS
 

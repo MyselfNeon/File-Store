@@ -1,13 +1,13 @@
 <img src="https://graph.org/file/6f562f435ca55d1fe3b7a-8079bc1d92f7539a7f.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/Madflix_Bots" target="/blank"> File Sharing Bot </a></>
+ <b><a href="https://t.me/NeonFiles" target="/blank"> FileStoreBot </a></>
 </h1>
 
 <p align="center">🩵 Thanks for Being Here 🩵</p>
 
 
-### CONFIGS VARIABLES
+### Configs Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `APP_ID` Your API ID from my.telegram.org
@@ -18,7 +18,7 @@
 * `DB_URL` Your mongo db url
 * `DB_NAME` Your mongo db session name
 
-### FEATURES
+### Features
 - Fully customisable.
 - Auto Delete Added.
 - 3 Branch Available.

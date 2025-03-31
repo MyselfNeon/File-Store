@@ -17,21 +17,11 @@
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `DB_URL` Your mongo db url
 * `DB_NAME` Your mongo db session name
-* `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/JishuDeveloper/File-Sharing-Bot/blob/main/README.md#start_message'>fillings</a>
-* `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
-* `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
-* `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
-
-
-# FEATURES
+### FEATURES
 - Fully customisable.
 - Auto Delete Added.
 - 3 Branch Available.
-- main Branch Means 1 force subs.
-- 2-force-subs Means 2 force subs.
-- 4-force-subs Means 4 force subs.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
@@ -39,15 +29,14 @@
 - Developer Service 24x7.
 
 
-
-# Setup
+### Setup
 
 - Add the bot to Database Channel with all permission
 - Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub
 
 
-# FILLINGS
-# START_MESSAGE 
+### Fillings
+### Start_Message
 
 * `{first}` - User first name
 * `{last}` - User last name
@@ -55,17 +44,17 @@
 * `{mention}` - Mention the user
 * `{username}` - Username
 
-# CUSTOM_CAPTION
+### Custom_Caption
 
  `{filename}` - file name of the Document
  `{previouscaption}` - Original Caption
 
-# CUSTOM_STATS
+### Custom_Starts
 
 * `{uptime}` - Bot Uptime
 
 
-# ALL COMMANDS
+### All Commands
 
 ```
 start - start the bot or get posts
@@ -79,12 +68,11 @@ stats - checking your bot uptime
 
 
 
-# ❤️ RESPECTING ❤️
+### ❤️ Respecting ❤️
 - [JishuDeveloper](https://github.com/JishuDeveloper)
 
-# 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
+### 😍 Bots Channel 😍
+- [ NeonFiles🌷 ](https://t.me/neonfiles)
 
-# 💕 CONTACT DEVELOPER 💕
-- [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
+### 💕 Contact Developer 💕
+- [ NeonAn ](https://t.me/Onionxbot)
